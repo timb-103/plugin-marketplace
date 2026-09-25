@@ -390,7 +390,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/pallyysocial/pallyy-agent.git",
-        "sha": "a2954345218fa9dbddd991322a360b40642a5581"
+        "sha": "c5166f616a9a00c5ae599581df37358c9792e32d"
       },
       "homepage": "https://pallyy.com/docs/api/mcp",
       "keywords": ["pallyy", "social media scheduler", "schedule social media posts", "social media automation", "instagram", "facebook", "linkedin", "tiktok", "youtube", "pinterest", "threads", "bluesky", "google business profile", "agency", "mcp"],
